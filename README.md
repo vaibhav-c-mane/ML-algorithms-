@@ -1,2 +1,1 @@
-# ML-algorithms-
-all the alogrithm i know 
+![License: MIT](https://shields.io)
